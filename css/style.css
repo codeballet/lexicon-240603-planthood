@@ -434,6 +434,7 @@ button {
   .index-header--links a {
     text-decoration: none;
     color: #0a846e;
+    font-weight: 600;
   }
 
   .index-header--svg-1 {
